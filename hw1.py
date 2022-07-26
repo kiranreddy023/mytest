@@ -1,4 +1,2 @@
 printf("hello world")
-ggvg
-ygvgbvhjjh
-gfcgfvh
+printf("this is kiran")
